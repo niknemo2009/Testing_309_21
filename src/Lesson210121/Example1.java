@@ -2,7 +2,7 @@ package Lesson210121;
 
 public class Example1 {
     public static void main(String[] args) {
-
+        System.out.println("jhgfds");
     }
 
     int convertBall(int ball){
