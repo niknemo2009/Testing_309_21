@@ -7,7 +7,7 @@ public class Example1 {
 
     int convertBall(int ball){
         int result=0;
-        if(ball<60){
+        if(ball<=60){
             result=2;
         }else if(ball<75){
             result=3;
